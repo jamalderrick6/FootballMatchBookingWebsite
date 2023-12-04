@@ -1,9 +1,3 @@
-import openingCeremonyImage from '../../assets/opening-ceremony.jpg';
-import emplem from '../../assets/emplem.png';
-import cupImage from '../../assets/bg2.jpg';
-import test from '../../assets/1.png';
-import test2 from '../../assets/2.webp';
-
 const headers = [
 	'African Uniqueness',
 	'Watch the exciting teams in the country',
